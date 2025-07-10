@@ -54,6 +54,7 @@ Each **Agent** is a subgraph and operates independently. Anyone can extend the s
 | **BinDiff**   | 8.0             | Binary diffing engine                   |
 | **BinExport** | ≥ 12            | IDA plugin that produces .BinDiff files |
 | **7-zip**     | ≥ 22            | Used to extract the update archives     |
+| **Azure AI services** or **OpenAI API** | Include o3, o4-mini, embedding, etc...    | The LLM engine for the system |
 
 > **Licensing:** IDA Pro is commercial. Buy a legal copy or fork this repo and extend it to Ghidra.
 
