@@ -109,6 +109,7 @@ python --version  # should print 3.11.x
 ---
 
 ## Quick Start
+> 🛈 You need to set up your Azure AI environment variables `AZURE_TENANT_ID`, `AZURE_CLIENT_ID`, `AZURE_CLIENT_SECRET` before using the tool.
 After installation, the fastest way to start your first analysis is to get CVE that affect your system from [MSRC](https://msrc.microsoft.com/update-guide/)
 ```powershell
 > cd patchdiff_ai/
